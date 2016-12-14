@@ -58,7 +58,7 @@
           <form action="index.php" method="get">
             <div style="float:left">
             <input type="hidden" name="xuly" value="cake"/>
-              <input type="date" name="gttim" value="" placeholder="Tìm sản phẩm..." style="height:45px; font-size:18px;" size="22px"/> 
+              <input type="text" name="gttim" value="" placeholder="Tìm sản phẩm..." style="height:45px; font-size:18px;" size="22px"/> 
             </div>
             <div style="float:left">
               <button type="submit" value="Tim" name= "Tim" id="" style="background:#FFF">
