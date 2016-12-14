@@ -41,7 +41,7 @@ if(isset($_GET['id'])&& !empty($_GET['id']) )
 }
 if(isset($_GET['add']))
 {
-	$_SESSION["name"][$_GET['add']]+=1;
+	$_SESSION["name"][$_GET['add']]+=1;//  Da sua loi tang san pham
 }
 if(isset($_GET['tru']))
 {
