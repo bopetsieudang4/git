@@ -4,7 +4,7 @@
     <li class="col-md-2" ><a href="index.php"> Trang chủ </a></li>
     <li class="col-md-2" ><a href="index.php?mod=gioithieu"> Giới thiệu </a></li>
     <li class="col-md-2" ><a href="index.php?chitiet=banhhot"> Sản Phẩm </a>
-    	<ul class="menucon" style="margin-top:80px;">
+    	<ul class="menucon">
         	<li><a href="index.php?chitiet=banhcuoi"> Bánh Cưới </a></li>
             <li><a href="index.php?chitiet=banhsinhnhat"> Bánh Sinh Nhật </a></li>
             <li><a href="index.php?chitiet=banhletiec"> Bánh Lễ Tiệc </a></li>
